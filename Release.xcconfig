@@ -1,0 +1,12 @@
+//
+//  Release.xcconfig
+//  Configuration and Flags
+//
+//  Created by Stewart Lynch on 2021-09-27.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+CT_ACCENT_COLOR = AccentColor
+CT_HELP_SITE = www.createchsol.com
